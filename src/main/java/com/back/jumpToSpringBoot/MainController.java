@@ -1,4 +1,4 @@
-package com.back.jumptospringboot;
+package com.back.jumpToSpringBoot;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
